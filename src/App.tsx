@@ -1,9 +1,8 @@
-import Home from './Home'
+import Board from './components/Board'
 
 const App = () => {
-
   return (
-    <Home />
+      <Board />
   )
 }
 
